@@ -1,3 +1,5 @@
+-- Exibindo o relatório de faturamento da empresa
+
 SELECT 
     FORMAT(MIN(p.price), 2) AS faturamento_minimo,
     FORMAT(MAX(p.price), 2) AS faturamento_maximo,

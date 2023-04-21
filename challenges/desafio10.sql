@@ -1,3 +1,5 @@
+-- Normalizando a tabela de canções favoritas para a 3ª Forma Normal
+
 CREATE TABLE favorite_songs(
     user_id	INT NOT NULL,
     song_id	INT NOT NULL,

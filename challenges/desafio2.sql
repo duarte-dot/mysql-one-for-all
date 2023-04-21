@@ -1,3 +1,5 @@
+-- Exibindo as estatísticas musicais
+
 SELECT 
     COUNT(DISTINCT sng.name) AS cancoes,
     COUNT(DISTINCT art.name) AS artistas,

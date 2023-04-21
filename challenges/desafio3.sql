@@ -1,3 +1,5 @@
+-- Exibindo o histórico de reprodução para cada pessoa usuária
+
 SELECT 
     u.name AS pessoa_usuaria,
     COUNT(h.song_id) AS musicas_ouvidas,

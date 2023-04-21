@@ -1,3 +1,5 @@
+-- Exibindo top 2 hits mais tocados no momento
+
 SELECT 
     s.name AS cancao, COUNT(h.song_id) AS reproducoes
 FROM

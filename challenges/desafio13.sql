@@ -1,3 +1,5 @@
+-- Exibindo a relação de pessoas usuárias e favoritadas por faixa etária
+
 SELECT 
     CASE
         WHEN u.age <= 30 THEN 'Até 30 anos'

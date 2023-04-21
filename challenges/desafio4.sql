@@ -1,3 +1,5 @@
+-- Exibindo a condição da pessoa usuária se está ativa ou inativa
+
 SELECT 
     u.name AS pessoa_usuaria,
     IF(MAX(h.reproduction_date) >= '2021-01-01',

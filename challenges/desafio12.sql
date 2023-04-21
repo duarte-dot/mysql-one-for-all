@@ -1,3 +1,5 @@
+-- Exibindo o ranking de pessoas artistas
+
 SELECT 
     art.name AS artista,
     CASE

@@ -1,3 +1,5 @@
+-- Exibindo uma relação de todos os álbuns produzidos por cada artista
+
 SELECT 
     art.name AS artista,
     alb.name AS album,

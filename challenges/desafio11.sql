@@ -1,3 +1,5 @@
+-- Exibindo o top 3 de álbuns com mais músicas favoritadas
+
 SELECT 
     a.name AS album, COUNT(s.album_id) AS favoritadas
 FROM

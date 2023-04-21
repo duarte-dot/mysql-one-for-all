@@ -1,3 +1,5 @@
+-- Exibindo uma relação de álbuns produzidos pela artista Elis Regina
+
 SELECT 
     art.name AS artista, alb.name AS album
 FROM

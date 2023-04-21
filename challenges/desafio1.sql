@@ -1,3 +1,5 @@
+-- Normalizando as tabelas para a 3ª Forma Normal
+
 DROP DATABASE IF EXISTS SpotifyClone;
 CREATE DATABASE IF NOT EXISTS SpotifyClone;
 USE SpotifyClone;
