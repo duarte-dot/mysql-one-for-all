@@ -1,13 +1,20 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# MYSQL One For All
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+<ul>
+<li>Este projeto teve como objetivo meu aprendizado em normalizar tabelas, criar um banco de dados relacional e obter mais experiência com queries SQL.</li>
+</ul>
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Neste projeto, eu:
+<ul>
+<li>Normalizei tabelas;</li>
+<li>Criei um banco de dados relacional;</li>
+<li>Busquei informações específicas em um banco de dados relacional;</li>
+</ul>
+
+O que foi necessário para concluir o projeto:
+<ul>
+<li>Entender o que é um banco de dados relacional e como ele funciona;</li>
+<li>Entender as queries;</li>
+<li>Entender o que é uma chave primária e uma chave estrangeira;</li>
+<li>Entender o que é uma tabela normalizada;</li>
+</ul>
