@@ -1,7 +1,7 @@
 # MYSQL One For All
 
 <ul>
-<li>Este projeto teve como objetivo meu aprendizado em normalizar tabelas, criar um banco de dados relacional e obter mais experiência com queries SQL.</li>
+<li>Este projeto teve como objetivo meu aprendizado em normalizar tabelas, criar um banco de dados relacional e obter mais experiência com queries SQL através de alguns desafios.</li>
 </ul>
 
 Neste projeto, eu:
